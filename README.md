@@ -1,2 +1,2 @@
-# CSC365PosterProject
-This is the repository for our poster project, the project is an application of cv2 in python to take low sample path-traced images and make them into clean images
+# CSC 365 Poster Project
+## This is the repository for our poster project. The cv2 image library for python was used to take low sample path-traced images and turn them into clean images.
