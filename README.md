@@ -1,5 +1,10 @@
 # CSC 365 Poster Project
-This is the repository for our poster project. The cv2 image library for python was used to take low sample path-traced images and turn them into clean images.
+This is the repository for our poster project. The cv2 image library for Python was used to take low sample path-traced images and turn them into clean images.
+
+# Explaination of Naming Convention
+Each of the pictures in the output folder is sorted into their specific 3D-model's file directory
+Then they follow the naming convention of:
+typeOfAlgorithm + model + # of images + .png
 
 # Credits to 3D model artists
 ### Voxel House made by VoxelBear
