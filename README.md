@@ -17,3 +17,9 @@ Link to the art: [https://sketchfab.com/3d-models/alien-world-explorer-f73af15cc
 
 ### Mario made by MatiasH290
 Link to the art: [https://sketchfab.com/3d-models/mario-obj-c549d24b60f74d8f85c7a5cbd2f55d0f](https://sketchfab.com/3d-models/mario-obj-c549d24b60f74d8f85c7a5cbd2f55d0f)
+
+### Lighting by Michael Kauppila
+
+# Credits (Code)
+AI was used to help streamline the code and make it slightly faster.
+It was specfically used in Lines 5 to 9 and Lines 15 to 25 to help read each of the images and make them fit into a faster reading of the images.
