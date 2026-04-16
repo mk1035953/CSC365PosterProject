@@ -19,7 +19,7 @@ typeOfAlgorithm + model + # of images + .png
 3. VoxelBear (2025, November 12). Minecraft House in the Forest. Sketchfab.
        [https://sketchfab.com/3d-models/minecraft-house-in-the-forest-5675f5d010a2408d98282ffd85a46198](https://sketchfab.com/3d-models/minecraft-house-in-the-forest-5675f5d010a2408d98282ffd85a46198)
 
-### Lighting by Michael Kauppila
+### Lighting, Camera Work, and Editing by Michael Kauppila
 
 # Credits (Code)
 AI was used to help streamline the code and make it slightly faster.
