@@ -7,6 +7,13 @@ These follow the naming convention of:
 typeOfAlgorithm + model + # of images + .png
 
 # Credits to 3D model artists
+## Official References
+1. Sketchfab (2025) Sketchfab. In: Sketchfab. https://sketchfab.com/3d-models/minecraft-house-in-the-forest-5675f5d010a2408d98282ffd85a46198. Accessed 16 Apr 2026
+2. Sketchfab (2021) Sketchfab. In: Sketchfab. https://sketchfab.com/3d-models/alien-world-explorer-f73af15ccc2849098df32f48133cba9b. Accessed 16 Apr 2026
+3. Sketchfab (2020) Sketchfab. In: Sketchfab. https://sketchfab.com/3d-models/mario-obj-c549d24b60f74d8f85c7a5cbd2f55d0f. Accessed 16 Apr 2026
+
+<img width="14841" height="1045" alt="image" src="https://github.com/user-attachments/assets/323fc981-09f4-4932-b2e2-26c40479c72e" />
+
 ### Voxel House made by VoxelBear
 Link to the art: [https://sketchfab.com/3d-models/minecraft-house-in-the-forest-5675f5d010a2408d98282ffd85a46198](https://sketchfab.com/3d-models/minecraft-house-in-the-forest-5675f5d010a2408d98282ffd85a46198)
 
