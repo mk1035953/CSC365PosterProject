@@ -12,7 +12,7 @@ typeOfAlgorithm + model + # of images + .png
 1. MatiasH290 (2020, November 10). Mario Obj. Sketchfab. [https://sketchfab.com/3d-models/mario-obj-c549d24b60f74d8f85c7a5cbd2f55d0f](https://sketchfab.com/3d-models/mario-obj-c549d24b60f74d8f85c7a5cbd2f55d0f)
 
 ### Space Explorer Model
-2. Sharon Kunne (2021, May 12). Space Explorer. Sketchfab.
+2. Sharon Kunne (2021, May 12). Alien World Explorer. Sketchfab.
        [https://sketchfab.com/3d-models/alien-world-explorer-f73af15ccc2849098df32f48133cba9b](https://sketchfab.com/3d-models/alien-world-explorer-f73af15ccc2849098df32f48133cba9b)
 
 ### Voxel House Model
