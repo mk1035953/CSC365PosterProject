@@ -8,14 +8,16 @@ typeOfAlgorithm + model + # of images + .png
 
 # Credits to 3D model artists
 ## Official References
-1. Sketchfab. (2020, November 10). Sketchfab. Sketchfab.
-       https://sketchfab.com/3d-models/mario-obj-c549d24b60f74d8f85c7a5cbd2f55d0f‌
+### Mario Model
+1. MatiasH290 (2020, November 10). Mario Obj. Sketchfab. [https://sketchfab.com/3d-models/mario-obj-c549d24b60f74d8f85c7a5cbd2f55d0f](https://sketchfab.com/3d-models/mario-obj-c549d24b60f74d8f85c7a5cbd2f55d0f)
 
-2. Sketchfab. (2025, November 12). Sketchfab. Sketchfab.
-       https://sketchfab.com/3d-models/minecraft-house-in-the-forest-5675f5d010a2408d98282ffd85a46198
+### Space Explorer Model
+2. Sharon Kunne (2021, May 12). Space Explorer. Sketchfab.
+       [https://sketchfab.com/3d-models/alien-world-explorer-f73af15ccc2849098df32f48133cba9b](https://sketchfab.com/3d-models/alien-world-explorer-f73af15ccc2849098df32f48133cba9b)
 
-3. Sketchfab. (2021, May 12). Sketchfab. Sketchfab.
-       https://sketchfab.com/3d-models/alien-world-explorer-f73af15ccc2849098df32f48133cba9b
+### Voxel House Model
+3. VoxelBear (2025, November 12). Minecraft House in the Forest. Sketchfab.
+       [https://sketchfab.com/3d-models/minecraft-house-in-the-forest-5675f5d010a2408d98282ffd85a46198](https://sketchfab.com/3d-models/minecraft-house-in-the-forest-5675f5d010a2408d98282ffd85a46198)
 
 ### Lighting by Michael Kauppila
 
