@@ -12,6 +12,7 @@ typeOfAlgorithm + model + # of images + .png
 ### Step 2: Import model to blender:
 To do this you need to go into files  
   
+<br>
 
 # References
 ### Blender Manual
