@@ -1,11 +1,14 @@
 # CSC 365 Poster Project
 This is the repository for our poster project. The cv2 image library for Python was used to take low sample path-traced images and turn them into clean images.
-<br>
+
+<br><\br>
+
 # Explanation of the Naming Conventions Used
 Each of the pictures in the output folder is sorted into their specific 3D-model's file directory.
 These follow the naming convention of:
 typeOfAlgorithm + model + # of images + .png
-<br>
+
+<br><\br>
 
 # How to recreate the images given
 ### Step 1: Download the model of your choice:
@@ -15,7 +18,7 @@ First open blender, then at the top left of the scrreen hit the file menu then g
 ### Step 3: Render Settings
 On the righthand side of your screen you should see the properties menu, to create the images used in the project 
   
-<br>
+<br><\br>
 
 # References
 ### Blender Manual
@@ -32,6 +35,8 @@ Blender Team. (2019, August 13). Introduction — Blender Manual. Blender.org. [
        [https://sketchfab.com/3d-models/minecraft-house-in-the-forest-5675f5d010a2408d98282ffd85a46198](https://sketchfab.com/3d-models/minecraft-house-in-the-forest-5675f5d010a2408d98282ffd85a46198)
 
 ### Lighting, Camera Work, and Editing by Michael Kauppila
+
+<br><\br>
 
 # Credits (Code)
 AI was used to help streamline the code and make it slightly faster.
