@@ -6,8 +6,17 @@ Each of the pictures in the output folder is sorted into their specific 3D-model
 These follow the naming convention of:
 typeOfAlgorithm + model + # of images + .png
 
-# Credits to 3D model artists
-## Official References
+# How to recreate the images given
+### Step 1: Download the model of your:
+
+### Step 2: Import model to blender:
+To do this you need to go into files
+
+\
+
+# References
+### Blender Manual
+Blender Team. (2019, August 13). Introduction — Blender Manual. Blender.org. https://docs.blender.org/manual/en/2.80/render/cycles/introduction.html
 ### Mario Model
 1. MatiasH290 (2020, November 10). Mario Obj. Sketchfab. [https://sketchfab.com/3d-models/mario-obj-c549d24b60f74d8f85c7a5cbd2f55d0f](https://sketchfab.com/3d-models/mario-obj-c549d24b60f74d8f85c7a5cbd2f55d0f)
 
