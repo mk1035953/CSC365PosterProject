@@ -1,22 +1,25 @@
 # CSC 365 Poster Project
 This is the repository for our poster project. The cv2 image library for Python was used to take low sample path-traced images and turn them into clean images.
-
+<br>
 # Explanation of the Naming Conventions Used
 Each of the pictures in the output folder is sorted into their specific 3D-model's file directory.
 These follow the naming convention of:
 typeOfAlgorithm + model + # of images + .png
+<br>
 
 # How to recreate the images given
-### Step 1: Download the model of your:
-
+### Step 1: Download the model of your choice:
+Download one of the three models below in your choice of format (if you would like a different model choose)
 ### Step 2: Import model to blender:
-To do this you need to go into files  
+First open blender, then at the top left of the scrreen hit the file menu then go down to import and select the file type you downloaded (Some may not be supported by blender, in that case select a supported file type), now you should see the model imported into blender, after that add lighting as needed and now it is time for rendering.
+### Step 3: Render Settings
+On the righthand side of your screen you should see the properties menu, to create the images used in the project 
   
 <br>
 
 # References
 ### Blender Manual
-Blender Team. (2019, August 13). Introduction — Blender Manual. Blender.org. https://docs.blender.org/manual/en/2.80/render/cycles/introduction.html
+Blender Team. (2019, August 13). Introduction — Blender Manual. Blender.org. [https://docs.blender.org/manual/en/2.80/render/cycles/introduction.html](https://docs.blender.org/manual/en/2.80/render/cycles/introduction.html)
 ### Mario Model
 1. MatiasH290 (2020, November 10). Mario Obj. Sketchfab. [https://sketchfab.com/3d-models/mario-obj-c549d24b60f74d8f85c7a5cbd2f55d0f](https://sketchfab.com/3d-models/mario-obj-c549d24b60f74d8f85c7a5cbd2f55d0f)
 
